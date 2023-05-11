@@ -1,1 +1,1 @@
-# -GoIT-NodeJS-HW
+# GoIT-NodeJS-HW
